@@ -1,4 +1,4 @@
-# MyFirstReactNative
+# My-First-React-Native
 This is my first React Native application
 
 1. A user can type any text and Share.
